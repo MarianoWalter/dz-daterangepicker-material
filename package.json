@@ -39,7 +39,7 @@
     "format": "prettier --write src/**/*.{js,json,css,scss}"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^17.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.11.2",
